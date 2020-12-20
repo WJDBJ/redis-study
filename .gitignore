@@ -1,0 +1,4 @@
+# Project exclude paths
+/ch01-redis/target/
+/spring-boot-redis/target/
+/spring-redis/target/
